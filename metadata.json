@@ -1,0 +1,6 @@
+{
+  "name": "Mandip & Prachi - Brother & Sister Tribute",
+  "description": "An elegant, simple website dedicated to sister Prachi from her brother Mandip, celebrating their lifelong bond, memories, and promises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
